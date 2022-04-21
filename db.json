@@ -1,14 +1,25 @@
-[
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
-]
+{
+  "gyms": [
+    {
+      "id": 1,
+      "name": "Post 1",
+      "address": "1 Main St., West Monroe, LA 71291",
+      "phone": 3189142514,
+      "website": "www.google.com"
+    },
+    {
+      "id": 2,
+      "name": "Post 1",
+      "address": "22 Fun St., West Monroe, LA 71291",
+      "phone": 3183765961,
+      "website": "www.yahoo.com"
+    },
+    {
+      "id": 3,
+      "name": "Post 1",
+      "address": "333 Clack St., West Monroe, LA 71291",
+      "phone": 3183720290,
+      "website": "www.msn.com"
+    }
+  ]
+}

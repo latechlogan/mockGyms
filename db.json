@@ -1,25 +1,77 @@
 {
   "gyms": [
     {
-      "id": 1,
-      "name": "Post 1",
-      "address": "1 Main St., West Monroe, LA 71291",
-      "phone": 3189142514,
-      "website": "www.google.com"
-    },
-    {
-      "id": 2,
-      "name": "Post 1",
-      "address": "22 Fun St., West Monroe, LA 71291",
-      "phone": 3183765961,
-      "website": "www.yahoo.com"
-    },
-    {
-      "id": 3,
-      "name": "Post 1",
-      "address": "333 Clack St., West Monroe, LA 71291",
-      "phone": 3183720290,
-      "website": "www.msn.com"
+      "Anytime Fitness": [
+        {
+          "id": 1,
+          "name": "Anytime Fitness",
+          "address": "2419 N 7th St, West Monroe, LA 71291",
+          "phone": "1111111111",
+          "website": "https://www.anytimefitness.com/"
+        },
+        {
+          "id": 2,
+          "name": "Anytime Fitness",
+          "address": "2309 Oliver Rd, Monroe, LA 71201",
+          "phone": "2222222222",
+          "website": "https://www.anytimefitness.com/"
+        },
+        {
+          "id": 3,
+          "name": "Anytime Fitness",
+          "address": "5600 Cypress St, West Monroe, LA 71291",
+          "phone": "3333333333",
+          "website": "https://www.anytimefitness.com/"
+        }
+      ],
+      "The Fitness Lodge": [
+        {
+          "id": 1,
+          "name": "The Fitness Lodge",
+          "address": "1000 Main St, West Monroe, LA 71291",
+          "phone": "8888888888",
+          "website": "https://www.vantagewellness.com/"
+        },
+        {
+          "id": 2,
+          "name": "The Fitness Lodge",
+          "address": "1000 Main St, West Monroe, LA 71291",
+          "phone": "8888888888",
+          "website": "https://www.vantagewellness.com/"
+        }
+      ],
+      "Geaux Fitness": [
+        {
+          "id": 1,
+          "name": "Geaux Fitness",
+          "address": "1000 Main St, West Monroe, LA 71291",
+          "phone": "8888888888",
+          "website": "https://www.vantagewellness.com/"
+        },
+        {
+          "id": 2,
+          "name": "Geaux Fitness",
+          "address": "1000 Main St, West Monroe, LA 71291",
+          "phone": "8888888888",
+          "website": "https://www.vantagewellness.com/"
+        }
+      ],
+      "Global Fitness": [
+        {
+          "id": 1,
+          "name": "Global Fitness",
+          "address": "1000 Main St, West Monroe, LA 71291",
+          "phone": "8888888888",
+          "website": "https://www.vantagewellness.com/"
+        },
+        {
+          "id": 2,
+          "name": "Global Fitness",
+          "address": "1000 Main St, West Monroe, LA 71291",
+          "phone": "8888888888",
+          "website": "https://www.vantagewellness.com/"
+        }
+      ],
     }
   ]
 }

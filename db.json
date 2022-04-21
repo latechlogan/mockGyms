@@ -23,7 +23,9 @@
           "phone": "3333333333",
           "website": "https://www.anytimefitness.com/"
         }
-      ],
+      ]
+    },
+    {
       "The Fitness Lodge": [
         {
           "id": 1,
@@ -39,7 +41,9 @@
           "phone": "8888888888",
           "website": "https://www.vantagewellness.com/"
         }
-      ],
+      ]
+    },
+    {
       "Geaux Fitness": [
         {
           "id": 1,
@@ -55,7 +59,9 @@
           "phone": "8888888888",
           "website": "https://www.vantagewellness.com/"
         }
-      ],
+      ]
+    },
+    {
       "Global Fitness": [
         {
           "id": 1,
@@ -71,7 +77,7 @@
           "phone": "8888888888",
           "website": "https://www.vantagewellness.com/"
         }
-      ],
+      ]
     }
   ]
 }

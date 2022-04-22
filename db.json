@@ -20,6 +20,34 @@
       "address": "5603 Cypress St., West Monroe, LA 71291",
       "phone": "3333333333",
       "url": "https://www.anytimefitness.com"
+    },
+    {
+      "id": 4,
+      "name": "The Fitness Lodge",
+      "address": "3867 Bayou Acres Dr., Bastrop, LA 71220",
+      "phone": "4444444444",
+      "url": "https://www.anytimefitness.com"
+    },
+    {
+      "id": 5,
+      "name": "The Fitness Lodge",
+      "address": "3867 Bayou Acres Dr., Bastrop, LA 71220",
+      "phone": "5555555555",
+      "url": "https://www.anytimefitness.com"
+    },
+    {
+      "id": 6,
+      "name": "Geaux Fit",
+      "address": "3630 Front St., Winnsboro, LA 71295",
+      "phone": "6666666666",
+      "url": "https://www.anytimefitness.com"
+    },
+    {
+      "id": 7,
+      "name": "Global Fit",
+      "address": "230 Sugartown Road, Suite 220, Wayne, PA 19087",
+      "phone": "7777777777",
+      "url": "https://www.anytimefitness.com"
     }
   ]
 }

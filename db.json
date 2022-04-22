@@ -1,23 +1,21 @@
-[
-  {
-    "id": 1,
-    "name": "Anytime Fitness",
-    "address": "5601 Cypress St., West Monroe, LA 71291",
-    "phone": "1111111111",
-    "url": "https://www.anytimefitness.com"
-  },
-  {
-    "id": 2,
-    "name": "Anytime Fitness",
-    "address": "5602 Cypress St., West Monroe, LA 71291",
-    "phone": "2222222222",
-    "url": "https://www.anytimefitness.com"
-  },
-  {
-    "id": 3,
-    "name": "Anytime Fitness",
-    "address": "5603 Cypress St., West Monroe, LA 71291",
-    "phone": "3333333333",
-    "url": "https://www.anytimefitness.com"
-  }
-]
+[{
+  "id": 1,
+  "name": "Anytime Fitness",
+  "address": "5601 Cypress St., West Monroe, LA 71291",
+  "phone": "1111111111",
+  "url": "https://www.anytimefitness.com"
+},
+{
+  "id": 2,
+  "name": "Anytime Fitness",
+  "address": "5602 Cypress St., West Monroe, LA 71291",
+  "phone": "2222222222",
+  "url": "https://www.anytimefitness.com"
+},
+{
+  "id": 3,
+  "name": "Anytime Fitness",
+  "address": "5603 Cypress St., West Monroe, LA 71291",
+  "phone": "3333333333",
+  "url": "https://www.anytimefitness.com"
+}]
